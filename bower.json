@@ -1,6 +1,6 @@
 {
   "name": "angular-wizard",
-  "version": "0.5.3",
+  "version": "0.5.3-unlimited-lodash",
   "main": [
     "./dist/angular-wizard.js",
     "./dist/angular-wizard.css"
